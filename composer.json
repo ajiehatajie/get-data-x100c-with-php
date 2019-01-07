@@ -1,0 +1,19 @@
+{
+    "require": {
+        "guzzlehttp/guzzle": "^6.3",
+        "vlucas/phpdotenv": "^3.0",
+        "monolog/monolog": "^1.24",
+        "ext-soap": "*",
+        "ext-sockets": "*"
+    },
+    "autoload": {
+        "psr-4": {
+          "TADPHP\\": "soap/lib/",
+          "TADPHP\\Exceptions\\": "soap/lib/Exceptions/",
+          "TADPHP\\Providers\\": "soap/lib/Providers/",
+          "Test\\Helpers\\": "test/helpers/",
+          "ZKLIB\\":"soap/lib/zklib/"
+        },
+        "files":["soap/zklib/zklib.php"]
+      }    
+}

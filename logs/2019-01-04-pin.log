@@ -1,0 +1,3 @@
+[2019-01-04 11:09:21] absensi_log.INFO: get data [{"url":"{\"Row\":[{\"PIN\":\"6323\",\"DateTime\":\"2018-12-14 08:18:14\",\"Verified\":\"1\",\"Status\":\"0\",\"WorkCode\":\"0\"},{\"PIN\":\"6323\",\"DateTime\":\"2018-12-15 07:41:53\",\"Verified\":\"1\",\"Status\":\"0\",\"WorkCode\":\"0\"}]}"}] []
+[2019-01-04 11:09:21] absensi_log.INFO: log {"url":"6323"} []
+[2019-01-04 11:09:21] absensi_log.INFO: log {"url":"6323"} []
